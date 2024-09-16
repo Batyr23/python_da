@@ -1,0 +1,9 @@
+built-in: math, datetime, os, sys, json, hash
+
+# interpreter (python, javascript, typescript) & compiler (c++, java)
+# Read about Interpreters & Compilers
+
+external: pandas, numpy, plotly, seaborn
+
+
+TEST NANO via CLI

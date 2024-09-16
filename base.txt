@@ -7,3 +7,6 @@ external: pandas, numpy, plotly, seaborn
 
 
 TEST NANO via CLI
+sdifjdsjflsdjflskdfjsldjlkfjsdkfd
+fjdsklfjlsdkjflsdjfkldsfjs]\
+lsfkdsljfklsdjfdlksfjdlsk

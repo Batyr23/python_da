@@ -7,6 +7,23 @@ external: pandas, numpy, plotly, seaborn
 
 
 TEST NANO via CLI
-sdifjdsjflsdjflskdfjsldjlkfjsdkfd
-fjdsklfjlsdkjflsdjfkldsfjs]\
-lsfkdsljfklsdjfdlksfjdlsk
+
+-- VCS by devops engineers CI-CD
+-- gitlab, bitbacket, azure devops repo, github (), GIT
+
+--> 1st create a project in local GIT repo, push
+--> commit, push, pull, clone
+--> commit (saves the last changes and ready to push)
+--> push --> will send committed changes
+--> pull --> it will sync up with github ()
+--> clone -->
+
+--> cd .. = in order to exit repo and go back
+--> ls -la = in order to see content inside repo (directory)
+--> pwd = path where directory
+--> cd directory_name = enter to directory
+--> mkdir -> make directory
+
+--> UNIX => Linux & Apple for their CLI
+
+

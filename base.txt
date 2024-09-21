@@ -30,5 +30,19 @@ TEST NANO via CLI
 
 OS (track, commit & commit message, push,  ~time, pull) -> GIT (master) -> GITHUB (master)
 
+--> you will create a new branch always based on in which branch you are right now
+--> command to create branch: git checkout -b <branch_name>  (feature/DA-555)
+--> branch will be created in local GIT repo VCS
 
---> To create new branch based on master branch (where you are)
+--> Branch does not exist in remote repo (in order to sync together)
+--> git push --set-upstream origin feature/DA-555
+
+--> git push --> (changes from new branch)
+
+--> git checkout <branch_name> (master) (but before changing branches, commit files)
+
+
+
+
+
+

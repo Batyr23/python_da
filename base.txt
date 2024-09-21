@@ -41,6 +41,28 @@ OS (track, commit & commit message, push,  ~time, pull) -> GIT (master) -> GITHU
 
 --> git checkout <branch_name> (master) (but before changing branches, commit files)
 
+--> we have not pushed the venv and other system files into the project after git clone
+--> activate virtual env from existing python interpreter
+--> python -m venv venv
+
+--> git revert <commit_id>
+--> pip install jupyter notebook
+
+------>
+MYSQL DB connect
+--> programming languages cannot just directly work with databases
+--> programming languages should have connectors to manipulate with databases
+
+--> pip install mysql-connector-python sqlalchemy
+--> pip install mysql-connector
+
+--> pip list
+
+--> VISUALIZATION LIBRARIES: matplotlib, seabron
+--> link: https://www.simplilearn.com/tutorials/python-tutorial/data-visualization-in-python
+
+
+
 
 
 

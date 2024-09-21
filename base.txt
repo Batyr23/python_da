@@ -29,3 +29,6 @@ TEST NANO via CLI
 --> UNIX => Linux & Apple for their CLI
 
 OS (track, commit & commit message, push,  ~time, pull) -> GIT (master) -> GITHUB (master)
+
+
+--> To create new branch based on master branch (where you are)
